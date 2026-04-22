@@ -56,8 +56,6 @@ retail-rule-engine/
 │           ├── RuleEngine.scala     # Discount logic
 │           ├── DatabaseWriter.scala # MySQL writer
 │           └── Logger.scala         # File logger
-├── resources/
-│   └── TRX1000.csv                  # Input CSV file
 └── rules_engine.log                 # Auto-generated log file
 ```
 
